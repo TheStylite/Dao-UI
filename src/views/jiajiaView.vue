@@ -13,8 +13,8 @@
   </div>
 </template>
 <script>
-import TextInputBox from '../components/jiajia-components/text-input-box.vue';
-import RadioPolicy from '../components/jiajia-components/radio-policy.vue';
+import TextInputBox from '../components/jiajia-components/TextInputBox.vue';
+import RadioPolicy from '../components/jiajia-components/RadioPolicy'
 import MemoryCapacityInputBox from '../components/jiajia-components/MemoryCapacityInputBox.vue'
 export default {
   data() {
