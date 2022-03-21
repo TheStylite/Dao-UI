@@ -2,9 +2,12 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/wuchen">无尘</router-link> |
+      <router-link to="/shiqi">时柒</router-link> |
+      <router-link to="/qunbo">群博</router-link> |
+      <router-link to="/jiajia">佳佳</router-link> |
     </nav>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
