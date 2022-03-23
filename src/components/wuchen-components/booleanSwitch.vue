@@ -26,7 +26,7 @@
 </template>
 <script>
 export default {
-  name: 'daoui-swtcih',
+  name: 'daoui-switch',
   props: {
     value: { type: Boolean, default: true },
     title: { type: String, default: 'TLS Mode' },
