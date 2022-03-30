@@ -1938,7 +1938,6 @@
   "resolved" "https://registry.npmmirror.com/astral-regex/-/astral-regex-2.0.0.tgz"
   "version" "2.0.0"
 
-<<<<<<< HEAD
 "async-validator@~1.8.1":
   "integrity" "sha512-tXBM+1m056MAX0E8TL2iCjg8WvSyXu0Zc8LNtYqrVeyoL3+esHRZ4SieE9fKQyyU09uONjnMEjrNBMqT0mbvmA=="
   "resolved" "https://registry.npmmirror.com/async-validator/-/async-validator-1.8.5.tgz"
@@ -1946,8 +1945,6 @@
   dependencies:
     "babel-runtime" "6.x"
 
-=======
->>>>>>> wuchen
 "async@^2.6.2":
   "integrity" "sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg=="
   "resolved" "https://registry.npmmirror.com/async/-/async-2.6.3.tgz"
@@ -1972,14 +1969,11 @@
     "picocolors" "^1.0.0"
     "postcss-value-parser" "^4.2.0"
 
-<<<<<<< HEAD
 "babel-helper-vue-jsx-merge-props@^2.0.0":
   "integrity" "sha512-gsLiKK7Qrb7zYJNgiXKpXblxbV5ffSwR0f5whkPAaBAR4fhi6bwRZxX9wBlIc5M/v8CCkXUbXZL4N/nSE97cqg=="
   "resolved" "https://registry.npmmirror.com/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-2.0.3.tgz"
   "version" "2.0.3"
 
-=======
->>>>>>> wuchen
 "babel-loader@^8.2.2":
   "integrity" "sha512-n4Zeta8NC3QAsuyiizu0GkmRcQ6clkV9WFUnUf1iXP//IeSKbWjofW3UHyZVwlOB4y039YQKefawyTn64Zwbuw=="
   "resolved" "https://registry.npmmirror.com/babel-loader/-/babel-loader-8.2.3.tgz"
@@ -2021,7 +2015,6 @@
   dependencies:
     "@babel/helper-define-polyfill-provider" "^0.3.1"
 
-<<<<<<< HEAD
 "babel-runtime@6.x":
   "integrity" "sha512-ITKNuq2wKlW1fJg9sSW52eepoYgZBggvOAHC0u/CYu/qxQ9EVzThCgR69BnSXLHjy2f7SY5zaQ4yt7H9ZVxY2g=="
   "resolved" "https://registry.npmmirror.com/babel-runtime/-/babel-runtime-6.26.0.tgz"
@@ -2030,8 +2023,6 @@
     "core-js" "^2.4.0"
     "regenerator-runtime" "^0.11.0"
 
-=======
->>>>>>> wuchen
 "balanced-match@^1.0.0":
   "integrity" "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="
   "resolved" "https://registry.npmmirror.com/balanced-match/-/balanced-match-1.0.2.tgz"
@@ -2323,7 +2314,6 @@
   "resolved" "https://registry.npmmirror.com/cli-spinners/-/cli-spinners-2.6.1.tgz"
   "version" "2.6.1"
 
-<<<<<<< HEAD
 "clipboard@^2.0.0":
   "integrity" "sha512-cz3m2YVwFz95qSEbCDi2fzLN/epEN9zXBvfgAoGkvGOJZATMl9gtTDVOtBYkx2ODUJl2kvmud7n32sV2BpYR4g=="
   "resolved" "https://registry.npmmirror.com/clipboard/-/clipboard-2.0.10.tgz"
@@ -2333,8 +2323,6 @@
     "select" "^1.1.2"
     "tiny-emitter" "^2.0.0"
 
-=======
->>>>>>> wuchen
 "clipboardy@^2.3.0":
   "integrity" "sha512-mKhiIL2DrQIsuXMgBgnfEHOZOryC7kY7YO//TN6c63wlEm3NG5tz+YgY5rVi29KCmq/QQjKYvM7a19+MDOTHOQ=="
   "resolved" "https://registry.npmmirror.com/clipboardy/-/clipboardy-2.3.0.tgz"
@@ -2507,14 +2495,11 @@
     "browserslist" "^4.19.1"
     "semver" "7.0.0"
 
-<<<<<<< HEAD
 "core-js@^2.4.0":
   "integrity" "sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ=="
   "resolved" "https://registry.npmmirror.com/core-js/-/core-js-2.6.12.tgz"
   "version" "2.6.12"
 
-=======
->>>>>>> wuchen
 "core-js@^3.8.3":
   "integrity" "sha512-FRq5b/VMrWlrmCzwRrpDYNxyHP9BcAZC+xHJaqTgIE5091ZV1NTmyh0sGOg5XqpnHvR0svdy0sv1gWA1zmhxig=="
   "resolved" "https://registry.npmmirror.com/core-js/-/core-js-3.21.1.tgz"
@@ -2737,11 +2722,7 @@
   "resolved" "https://registry.npmmirror.com/deep-is/-/deep-is-0.1.4.tgz"
   "version" "0.1.4"
 
-<<<<<<< HEAD
 "deepmerge@^1.2.0", "deepmerge@^1.5.2":
-=======
-"deepmerge@^1.5.2":
->>>>>>> wuchen
   "integrity" "sha512-95k0GDqvBjZavkuvzx/YqVLv/6YYa17fz6ILMSf7neqQITCPbnfEnQvEgMPNjH4kgobe7+WIL0yJEHku+H3qtQ=="
   "resolved" "https://registry.npmmirror.com/deepmerge/-/deepmerge-1.5.2.tgz"
   "version" "1.5.2"
@@ -2791,14 +2772,11 @@
     "rimraf" "^3.0.2"
     "slash" "^3.0.0"
 
-<<<<<<< HEAD
 "delegate@^3.1.2":
   "integrity" "sha512-IofjkYBZaZivn0V8nnsMJGBr4jVLxHDheKSW88PyxS5QC4Vo9ZbZVvhzlSxY87fVq3STR6r+4cGepyHkcWOQSw=="
   "resolved" "https://registry.npmmirror.com/delegate/-/delegate-3.2.0.tgz"
   "version" "3.2.0"
 
-=======
->>>>>>> wuchen
 "depd@~1.1.2":
   "integrity" "sha512-7emPTl6Dpo6JRXOXjLRxck+FlLRX5847cLKEn00PLAgc3g2hTZZgr+e4c2v6QpSmLeFP3n5yUo7ft6avBK/5jQ=="
   "resolved" "https://registry.npmmirror.com/depd/-/depd-1.1.2.tgz"
@@ -2923,7 +2901,6 @@
   "resolved" "https://registry.npmmirror.com/electron-to-chromium/-/electron-to-chromium-1.4.88.tgz"
   "version" "1.4.88"
 
-<<<<<<< HEAD
 "element-ui@^2.15.6":
   "integrity" "sha512-rcYXEKd/j2G0AgficAOk1Zd1AsnHRkhmrK4yLHmNOiimU2JfsywgfKUjMoFuT6pQx0luhovj8lFjpE4Fnt58Iw=="
   "resolved" "https://registry.npmmirror.com/element-ui/-/element-ui-2.15.6.tgz"
@@ -2936,8 +2913,6 @@
     "resize-observer-polyfill" "^1.5.0"
     "throttle-debounce" "^1.0.1"
 
-=======
->>>>>>> wuchen
 "emoji-regex@^8.0.0":
   "integrity" "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A=="
   "resolved" "https://registry.npmmirror.com/emoji-regex/-/emoji-regex-8.0.0.tgz"
@@ -3573,7 +3548,6 @@
     "merge2" "^1.4.1"
     "slash" "^3.0.0"
 
-<<<<<<< HEAD
 "good-listener@^1.2.2":
   "integrity" "sha512-goW1b+d9q/HIwbVYZzZ6SsTr4IgE+WA44A0GmPIQstuOrgsFcT7VEJ48nmr9GaRtNu0XTKacFLGnBPAM6Afouw=="
   "resolved" "https://registry.npmmirror.com/good-listener/-/good-listener-1.2.2.tgz"
@@ -3581,8 +3555,6 @@
   dependencies:
     "delegate" "^3.1.2"
 
-=======
->>>>>>> wuchen
 "graceful-fs@^4.1.2", "graceful-fs@^4.1.6", "graceful-fs@^4.2.0", "graceful-fs@^4.2.4", "graceful-fs@^4.2.6", "graceful-fs@^4.2.9":
   "integrity" "sha512-NtNxqUcXgpW2iMrfqSfR73Glt39K+BLwWsPs94yR63v45T0Wbej7eRmL5cWfwEgqXnmjQp3zaJTshdRW/qC2ZQ=="
   "resolved" "https://registry.npmmirror.com/graceful-fs/-/graceful-fs-4.2.9.tgz"
@@ -4537,14 +4509,11 @@
   "resolved" "https://registry.npmmirror.com/normalize-url/-/normalize-url-6.1.0.tgz"
   "version" "6.1.0"
 
-<<<<<<< HEAD
 "normalize-wheel@^1.0.1":
   "integrity" "sha512-1OnlAPZ3zgrk8B91HyRj+eVv+kS5u+Z0SCsak6Xil/kmgEia50ga7zfkumayonZrImffAxPU/5WcyGhzetHNPA=="
   "resolved" "https://registry.npmmirror.com/normalize-wheel/-/normalize-wheel-1.0.1.tgz"
   "version" "1.0.1"
 
-=======
->>>>>>> wuchen
 "npm-run-path@^2.0.0":
   "integrity" "sha512-lJxZYlT4DW/bRUtFh1MQIWqmLwQfAxnqWG4HhEdjMlkrJYnJn0Jrr2u3mgxqaWsdiBc76TYkTG/mhrnYTuzfHw=="
   "resolved" "https://registry.npmmirror.com/npm-run-path/-/npm-run-path-2.0.2.tgz"
@@ -5256,14 +5225,11 @@
   "resolved" "https://registry.npmmirror.com/regenerate/-/regenerate-1.4.2.tgz"
   "version" "1.4.2"
 
-<<<<<<< HEAD
 "regenerator-runtime@^0.11.0":
   "integrity" "sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg=="
   "resolved" "https://registry.npmmirror.com/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz"
   "version" "0.11.1"
 
-=======
->>>>>>> wuchen
 "regenerator-runtime@^0.13.4":
   "integrity" "sha512-p3VT+cOEgxFsRRA9X4lkI1E+k2/CtnKtU4gcxyaCUreilL/vqI6CdZ3wxVUx3UOUg+gnUOQQcRI7BmSI656MYA=="
   "resolved" "https://registry.npmmirror.com/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz"
@@ -5344,14 +5310,11 @@
   "resolved" "https://registry.npmmirror.com/requires-port/-/requires-port-1.0.0.tgz"
   "version" "1.0.0"
 
-<<<<<<< HEAD
 "resize-observer-polyfill@^1.5.0":
   "integrity" "sha512-LwZrotdHOo12nQuZlHEmtuXdqGoOD0OhaxopaNFxWzInpEgaLWoVuAMbTzixuosCx2nEG58ngzW3vxdWoxIgdg=="
   "resolved" "https://registry.npmmirror.com/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz"
   "version" "1.5.1"
 
-=======
->>>>>>> wuchen
 "resolve-from@^4.0.0":
   "integrity" "sha512-pb/MYmXstAkysRFx8piNI1tGFNQIFA3vkE3Gq4EuA1dF6gHp/+vgZqsCGJapvy8N3Q+4o7FwvquPJcnZ7RYy4g=="
   "resolved" "https://registry.npmmirror.com/resolve-from/-/resolve-from-4.0.0.tgz"
@@ -5503,14 +5466,11 @@
   "resolved" "https://registry.npmmirror.com/select-hose/-/select-hose-2.0.0.tgz"
   "version" "2.0.0"
 
-<<<<<<< HEAD
 "select@^1.1.2":
   "integrity" "sha512-OwpTSOfy6xSs1+pwcNrv0RBMOzI39Lp3qQKUTPVVPRjCdNa5JH/oPRiqsesIskK8TVgmRiHwO4KXlV2Li9dANA=="
   "resolved" "https://registry.npmmirror.com/select/-/select-1.1.2.tgz"
   "version" "1.1.2"
 
-=======
->>>>>>> wuchen
 "selfsigned@^2.0.0":
   "integrity" "sha512-cUdFiCbKoa1mZ6osuJs2uDHrs0k0oprsKveFiiaBKCNq3SYyb5gs2HxhQyDNLCmL51ZZThqi4YNDpCK6GOP1iQ=="
   "resolved" "https://registry.npmmirror.com/selfsigned/-/selfsigned-2.0.0.tgz"
@@ -6002,14 +5962,11 @@
     "neo-async" "^2.6.2"
     "schema-utils" "^3.0.0"
 
-<<<<<<< HEAD
 "throttle-debounce@^1.0.1":
   "integrity" "sha512-XH8UiPCQcWNuk2LYePibW/4qL97+ZQ1AN3FNXwZRBNPPowo/NRU5fAlDCSNBJIYCKbioZfuYtMhG4quqoJhVzg=="
   "resolved" "https://registry.npmmirror.com/throttle-debounce/-/throttle-debounce-1.1.0.tgz"
   "version" "1.1.0"
 
-=======
->>>>>>> wuchen
 "thunky@^1.0.2":
   "integrity" "sha512-eHY7nBftgThBqOyHGVN+l8gF0BucP09fMo0oO/Lb0w1OF80dJv+lDVpXG60WMQvkcxAkNybKsrEIE3ZtKGmPrA=="
   "resolved" "https://registry.npmmirror.com/thunky/-/thunky-1.1.0.tgz"
@@ -6020,14 +5977,11 @@
   "resolved" "https://registry.npmmirror.com/timsort/-/timsort-0.3.0.tgz"
   "version" "0.3.0"
 
-<<<<<<< HEAD
 "tiny-emitter@^2.0.0":
   "integrity" "sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q=="
   "resolved" "https://registry.npmmirror.com/tiny-emitter/-/tiny-emitter-2.1.0.tgz"
   "version" "2.1.0"
 
-=======
->>>>>>> wuchen
 "to-fast-properties@^2.0.0":
   "integrity" "sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog=="
   "resolved" "https://registry.npmmirror.com/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
@@ -6200,7 +6154,6 @@
   "resolved" "https://registry.npmmirror.com/vue-class-component/-/vue-class-component-7.2.6.tgz"
   "version" "7.2.6"
 
-<<<<<<< HEAD
 "vue-clipboard2@^0.3.3":
   "integrity" "sha512-aNWXIL2DKgJyY/1OOeITwAQz1fHaCIGvUFHf9h8UcoQBG5a74MkdhS/xqoYe7DNZdQmZRL+TAdIbtUs9OyVjbw=="
   "resolved" "https://registry.npmmirror.com/vue-clipboard2/-/vue-clipboard2-0.3.3.tgz"
@@ -6208,8 +6161,6 @@
   dependencies:
     "clipboard" "^2.0.0"
 
-=======
->>>>>>> wuchen
 "vue-eslint-parser@^8.0.0":
   "integrity" "sha512-dzHGG3+sYwSf6zFBa0Gi9ZDshD7+ad14DGOdTLjruRVgZXe2J+DcZ9iUhyR48z5g1PqRa20yt3Njna/veLJL/g=="
   "resolved" "https://registry.npmmirror.com/vue-eslint-parser/-/vue-eslint-parser-8.3.0.tgz"
@@ -6281,7 +6232,7 @@
   "resolved" "https://registry.npmmirror.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz"
   "version" "1.9.1"
 
-"vue@*", "vue@^2 || ^3.2.13", "vue@^2.0.0", "vue@^2.6.14":
+"vue@*", "vue@^2 || ^3.2.13", "vue@^2.0.0", "vue@^2.5.17", "vue@^2.6.14":
   "integrity" "sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ=="
   "resolved" "https://registry.npmmirror.com/vue/-/vue-2.6.14.tgz"
   "version" "2.6.14"
