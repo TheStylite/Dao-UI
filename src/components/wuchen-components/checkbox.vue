@@ -1,6 +1,6 @@
 <template>
   <div class="dao-ui-checkbox">
-    <div class="common-title">
+    <div class="common-title title">
       {{title}}
     </div>
     <div class="checkbox commonMargin">
