@@ -8,6 +8,7 @@
         <TextTip :textTip="textTip"></TextTip>
       </div>
     </Advanced>
+    <update-strategy></update-strategy>
   </div>
 </template>
 <script>
@@ -15,13 +16,15 @@
   import Selector from "@/components/shiqi-components/Selector/Selector";
   import TextTip from "@/components/shiqi-components/TextTip/TextTip";
   import Advanced from '@/components/shiqi-components/Advanced/advanced'
+  import UpdateStrategy from "../components/shiqi-components/UpdateStrategy/UpdateStrategy";
   export default {
     name: 'HelloWorld',
     components: {
       Selector,
       Number,
       TextTip,
-      Advanced
+      Advanced,
+      UpdateStrategy
     },
     watch:{
       numberValue(){

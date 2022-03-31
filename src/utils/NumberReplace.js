@@ -36,6 +36,12 @@ function float2Replace(value) {
     return str = str.replace(/^\D*([0-9]\d*\.?\d{0,2})?.*$/,'$1') // 小数点后只能输 2 位
 }
 
+function float2ReplaceUnit(value) {
+    let str = floatReplace(value)
+    console.log(str.replace(/^\d+(\.[0-9]{1, 2})?%?$/,''))
+    return str = str.replace(/^\D*([0-9]\d*\.?\d{0,2})?%?$/,'$1') // 小数点后只能输 2 位,可以输入%
+}
+
 function floatKeyup(value, type) {
     let val = value;
     if (val.substr(val.length - 1) == '.' && type == 'float1') {
@@ -49,5 +55,6 @@ export default {
     numberReplace,
     float1Replace,
     float2Replace,
+    float2ReplaceUnit,
     floatKeyup
 }
