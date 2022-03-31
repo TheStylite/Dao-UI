@@ -28,6 +28,12 @@
       </template>
     </text-display>
     <edit-list :listData.sync="editListData"></edit-list>
+    <dropdown-selection
+      v-model="option"
+      title="Kafka storage"
+      :options="options"
+      @changeOption="changeOption"
+    ></dropdown-selection>
   </div>
 </template>
 <script>
@@ -37,6 +43,7 @@ import MemoryCapacityInputBox from '../components/jiajia-components/MemoryCapaci
 import ShowTable from '@/components/jiajia-components/ShowTable';
 import TextDisplay from '@/components/jiajia-components/TextDisplay.vue';
 import EditList from '@/components/jiajia-components/EditList.vue';
+import DropdownSelection from '@/components/jiajia-components/DropdownSelection.vue';
 export default {
   data() {
     return {
@@ -112,6 +119,21 @@ export default {
           value: 'ssss',
         },
       ],
+      options: [
+        {
+          value: 'jbod',
+          label: 'jbod',
+        },
+        {
+          value: 'persistent-claim',
+          label: 'persistent-claim',
+        },
+        {
+          value: 'ephemeral',
+          label: 'ephemeral',
+        },
+      ],
+      option:''
     };
   },
   components: {
@@ -121,10 +143,14 @@ export default {
     ShowTable,
     TextDisplay,
     EditList,
+    DropdownSelection,
   },
   methods: {
     close() {
       this.onlydata = '';
+    },
+    changeOption(e) {
+      this.option = e;
     },
   },
 };
