@@ -10,4 +10,12 @@ module.exports = defineConfig({
   //     },
   //   },
   // },
+  css: {
+    loaderOptions: {
+      scss: {
+        // 传入全局共享样式
+        additionalData: `@import "@/assets/styles/variables.scss";`,
+      },
+    },
+  },
 })
